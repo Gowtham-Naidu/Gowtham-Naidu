@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, Django**
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **Integration of Mechanical Systems and AI in Mobile Robotics**
 
 - 📫 How to reach me **gowthamnaidu1619@gmail.com**
 
